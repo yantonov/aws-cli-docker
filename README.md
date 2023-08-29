@@ -1,8 +1,8 @@
 ### Docker image for AWS cli
 
 #### Prerequisites
-Make tool is required
-
+Make tool is required  
+Otherwice you will need to run docker commands manually
 
 #### Usage
 The idea is straightforward:
